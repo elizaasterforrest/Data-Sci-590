@@ -7,3 +7,7 @@ Today we will:
 - practice commits
 - explore RStudio integration
 - do a first push to remote
+- add new files to repository 
+
+
+
