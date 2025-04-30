@@ -8,6 +8,6 @@ Today we will:
 - explore RStudio integration
 - do a first push to remote
 - add new files to repository 
-
+- let's try pulling from here
 
 
